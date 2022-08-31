@@ -1,0 +1,1 @@
+npx insomnia-documenter --config config.json -> passar o comando na pasta onde está salvo o config
